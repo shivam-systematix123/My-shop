@@ -1,0 +1,5 @@
+C:\Users\shivam borasi\source\repos\shivam-systematix123\My-shop\myshop\myshop.dataacess.memory\bin\Debug\myshop.dataacess.memory.dll
+C:\Users\shivam borasi\source\repos\shivam-systematix123\My-shop\myshop\myshop.dataacess.memory\bin\Debug\myshop.dataacess.memory.pdb
+C:\Users\shivam borasi\source\repos\shivam-systematix123\My-shop\myshop\myshop.dataacess.memory\obj\Debug\myshop.dataacess.memory.csproj.CoreCompileInputs.cache
+C:\Users\shivam borasi\source\repos\shivam-systematix123\My-shop\myshop\myshop.dataacess.memory\obj\Debug\myshop.dataacess.memory.dll
+C:\Users\shivam borasi\source\repos\shivam-systematix123\My-shop\myshop\myshop.dataacess.memory\obj\Debug\myshop.dataacess.memory.pdb

@@ -1,0 +1,6 @@
+C:\Users\shivam borasi\source\repos\shivam-systematix123\My-shop\myshop\myshop.service\bin\Debug\myshop.service.dll
+C:\Users\shivam borasi\source\repos\shivam-systematix123\My-shop\myshop\myshop.service\bin\Debug\myshop.service.pdb
+C:\Users\shivam borasi\source\repos\shivam-systematix123\My-shop\myshop\myshop.service\obj\Debug\myshop.service.csprojAssemblyReference.cache
+C:\Users\shivam borasi\source\repos\shivam-systematix123\My-shop\myshop\myshop.service\obj\Debug\myshop.service.csproj.CoreCompileInputs.cache
+C:\Users\shivam borasi\source\repos\shivam-systematix123\My-shop\myshop\myshop.service\obj\Debug\myshop.service.dll
+C:\Users\shivam borasi\source\repos\shivam-systematix123\My-shop\myshop\myshop.service\obj\Debug\myshop.service.pdb
